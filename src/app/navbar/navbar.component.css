@@ -1,0 +1,21 @@
+.logo-ng {
+  background: crimson;
+  color: aliceblue;
+  border-radius: 10px 0 0 10px;
+  padding: 5px 0 10px 5px;
+  font-size: 25px;
+  font-weight: lighter;
+}
+
+.logo-form {
+  background-color: #fcc203;
+  font-weight: bold;
+  color: antiquewhite;
+  border-radius: 0 10px 10px 0;
+  padding: 5px 5px 10px 0;
+  font-size: 25px;
+}
+
+.navbar-bg {
+  background-color: #f3e8ff94;
+}

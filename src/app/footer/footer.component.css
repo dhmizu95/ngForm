@@ -1,0 +1,14 @@
+footer {
+  background: black;
+  padding: 10px;
+  color: antiquewhite;
+  text-align: center;
+  font-size: 15px;
+}
+
+#sticky-footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
